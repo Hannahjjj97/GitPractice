@@ -1,4 +1,1 @@
 # Git Practice
-
-teyu
-hie
